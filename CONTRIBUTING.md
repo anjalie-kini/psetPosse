@@ -1,4 +1,4 @@
-# Contributing to blackholeVis
+# Contributing to PSetPosse
 
 Everybody is invited and welcome to contribute to psetPosse. There is a lot to do.
 * If you are not a developer, you could add documentation or raise issues if you see improvements.
